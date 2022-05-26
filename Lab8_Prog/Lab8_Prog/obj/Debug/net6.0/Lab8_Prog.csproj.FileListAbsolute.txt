@@ -1,0 +1,15 @@
+C:\Кодинг\Lab8_Prog\Lab8_Prog\bin\Debug\net6.0\Lab8_Prog.exe
+C:\Кодинг\Lab8_Prog\Lab8_Prog\bin\Debug\net6.0\Lab8_Prog.deps.json
+C:\Кодинг\Lab8_Prog\Lab8_Prog\bin\Debug\net6.0\Lab8_Prog.runtimeconfig.json
+C:\Кодинг\Lab8_Prog\Lab8_Prog\bin\Debug\net6.0\Lab8_Prog.dll
+C:\Кодинг\Lab8_Prog\Lab8_Prog\bin\Debug\net6.0\Lab8_Prog.pdb
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.csproj.AssemblyReference.cache
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.AssemblyInfoInputs.cache
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.AssemblyInfo.cs
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.dll
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\refint\Lab8_Prog.dll
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.pdb
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\Lab8_Prog.genruntimeconfig.cache
+C:\Кодинг\Lab8_Prog\Lab8_Prog\obj\Debug\net6.0\ref\Lab8_Prog.dll

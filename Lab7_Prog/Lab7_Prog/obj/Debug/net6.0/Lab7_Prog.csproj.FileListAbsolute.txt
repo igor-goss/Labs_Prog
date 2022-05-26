@@ -1,0 +1,15 @@
+C:\Кодинг\Lab7_Prog\Lab7_Prog\bin\Debug\net6.0\Lab7_Prog.exe
+C:\Кодинг\Lab7_Prog\Lab7_Prog\bin\Debug\net6.0\Lab7_Prog.deps.json
+C:\Кодинг\Lab7_Prog\Lab7_Prog\bin\Debug\net6.0\Lab7_Prog.runtimeconfig.json
+C:\Кодинг\Lab7_Prog\Lab7_Prog\bin\Debug\net6.0\Lab7_Prog.dll
+C:\Кодинг\Lab7_Prog\Lab7_Prog\bin\Debug\net6.0\Lab7_Prog.pdb
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.csproj.AssemblyReference.cache
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.AssemblyInfoInputs.cache
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.AssemblyInfo.cs
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.dll
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\refint\Lab7_Prog.dll
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.pdb
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\Lab7_Prog.genruntimeconfig.cache
+C:\Кодинг\Lab7_Prog\Lab7_Prog\obj\Debug\net6.0\ref\Lab7_Prog.dll
