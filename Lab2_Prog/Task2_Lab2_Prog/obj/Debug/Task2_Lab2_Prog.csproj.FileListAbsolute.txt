@@ -1,8 +1,0 @@
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\bin\Debug\Task2_Lab2_Prog.exe.config
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\bin\Debug\Task2_Lab2_Prog.exe
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\bin\Debug\Task2_Lab2_Prog.pdb
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\obj\Debug\Task2_Lab2_Prog.csproj.AssemblyReference.cache
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\obj\Debug\Task2_Lab2_Prog.csproj.SuggestedBindingRedirects.cache
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\obj\Debug\Task2_Lab2_Prog.csproj.CoreCompileInputs.cache
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\obj\Debug\Task2_Lab2_Prog.exe
-C:\Кодинг\Lab2_Prog\Task2_Lab2_Prog\obj\Debug\Task2_Lab2_Prog.pdb
