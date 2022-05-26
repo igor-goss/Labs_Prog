@@ -1,0 +1,15 @@
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\bin\Debug\net6.0\Lab6_Prog_v2.exe
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\bin\Debug\net6.0\Lab6_Prog_v2.deps.json
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\bin\Debug\net6.0\Lab6_Prog_v2.runtimeconfig.json
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\bin\Debug\net6.0\Lab6_Prog_v2.dll
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\bin\Debug\net6.0\Lab6_Prog_v2.pdb
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.csproj.AssemblyReference.cache
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.AssemblyInfoInputs.cache
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.AssemblyInfo.cs
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.dll
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\refint\Lab6_Prog_v2.dll
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.pdb
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\Lab6_Prog_v2.genruntimeconfig.cache
+C:\Кодинг\Lab6_Prog_v2\Lab6_Prog_v2\obj\Debug\net6.0\ref\Lab6_Prog_v2.dll

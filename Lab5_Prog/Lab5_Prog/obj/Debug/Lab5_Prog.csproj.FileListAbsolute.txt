@@ -1,0 +1,8 @@
+C:\Кодинг\Lab5_Prog\Lab5_Prog\bin\Debug\Lab5_Prog.exe.config
+C:\Кодинг\Lab5_Prog\Lab5_Prog\bin\Debug\Lab5_Prog.exe
+C:\Кодинг\Lab5_Prog\Lab5_Prog\bin\Debug\Lab5_Prog.pdb
+C:\Кодинг\Lab5_Prog\Lab5_Prog\obj\Debug\Lab5_Prog.csproj.AssemblyReference.cache
+C:\Кодинг\Lab5_Prog\Lab5_Prog\obj\Debug\Lab5_Prog.csproj.SuggestedBindingRedirects.cache
+C:\Кодинг\Lab5_Prog\Lab5_Prog\obj\Debug\Lab5_Prog.csproj.CoreCompileInputs.cache
+C:\Кодинг\Lab5_Prog\Lab5_Prog\obj\Debug\Lab5_Prog.exe
+C:\Кодинг\Lab5_Prog\Lab5_Prog\obj\Debug\Lab5_Prog.pdb

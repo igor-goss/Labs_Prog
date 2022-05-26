@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab6_Prog.Bread">
+    <Position X="1" Y="4" Width="1.5" />
+    <InheritanceLine Type="Lab6_Prog.Goods" ManuallyRouted="true">
+      <Path>
+        <Point X="3.5" Y="3.468" />
+        <Point X="3.5" Y="3.819" />
+        <Point X="1.75" Y="3.819" />
+        <Point X="1.75" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Bread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6_Prog.Goods">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAQAAAAAAAAAAAAQAQAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6_Prog.GroundMeat">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GroundMeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6_Prog.Meat">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="Lab6_Prog.Goods" ManuallyRouted="true">
+      <Path>
+        <Point X="3.5" Y="3.468" />
+        <Point X="3.5" Y="3.812" />
+        <Point X="4.5" Y="3.812" />
+        <Point X="4.5" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Meat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6_Prog.Program">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab6_Prog.Sausage">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sausage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
